@@ -1,7 +1,7 @@
-[![MasterHead](https://www.softprodigy.com/wp-content/uploads/2021/06/JS-Development-Gif.gif)](https://kunalpratapsinghh.io)
+[![MasterHead](https://blog.hubspot.com/hs-fs/hubfs/7a8f8d634013568124e130728834d47a.gif?width=1500&name=7a8f8d634013568124e130728834d47a.gif)]
 <h1 align="center">Hi 👋, I'm Kunal Pratap Singh</h1>
 <h3 align="center">A passionate MERN developer from India</h3>
-<img align="right" alt="coding" width="400 src="https://gist.github.com/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalpratapsinghh&label=Profile%20views&color=0e75b6&style=flat" alt="kunalpratapsinghh" /> </p>
 
