@@ -1,4 +1,4 @@
-[![MasterHead](https://blog.hubspot.com/hs-fs/hubfs/7a8f8d634013568124e130728834d47a.gif?width=1500&name=7a8f8d634013568124e130728834d47a.gif)]
+[![MasterHead](https://blog.hubspot.com/hs-fs/hubfs/7a8f8d634013568124e130728834d47a.gif?width=1500&name=7a8f8d634013568124e130728834d47a.gif)](https://kunalpratapsinghh.io)
 <h1 align="center">Hi 👋, I'm Kunal Pratap Singh</h1>
 <h3 align="center">A passionate MERN developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
