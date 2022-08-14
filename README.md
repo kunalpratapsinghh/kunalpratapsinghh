@@ -7,7 +7,10 @@
 
 <p align="left"> <a href="https://twitter.com/orthodoxrajput" target="blank"><img src="https://img.shields.io/twitter/follow/orthodoxrajput?logo=twitter&style=for-the-badge" alt="orthodoxrajput" /></a> </p>
 
-- 🌱 I’m currently learning **NodeJs**
+- 🌱 I’m currently learning **TypeScript** 
+
+-![image](https://user-images.githubusercontent.com/101600585/184532625-f4c68fdc-7fb2-4126-be66-298dac98849d.png)
+
 
 - 📝 I regularly write articles on [https://medium.com/@1.3kunal.tt](https://medium.com/@1.3kunal.tt)
 
