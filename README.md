@@ -9,8 +9,7 @@
 
 - 🌱 I’m currently learning **TypeScript** 
 
--![image](https://user-images.githubusercontent.com/101600585/184532625-f4c68fdc-7fb2-4126-be66-298dac98849d.png)
-
+- 🌐 You can vist my portfolio on [Portfolio](https://kunalsinghportfolio.netlify.app/#/)
 
 - 📝 I regularly write articles on [https://medium.com/@1.3kunal.tt](https://medium.com/@1.3kunal.tt)
 
