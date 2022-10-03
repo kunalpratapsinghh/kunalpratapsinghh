@@ -1,6 +1,9 @@
 [![MasterHead](https://blog.hubspot.com/hs-fs/hubfs/7a8f8d634013568124e130728834d47a.gif?width=1500&name=7a8f8d634013568124e130728834d47a.gif)](https://kunalpratapsinghh.io)
 <h1 align="center">Hi 👋, I'm Kunal Pratap Singh</h1>
 <h3 align="center">A passionate MERN developer from India</h3>
+<h2 align="center">I enjoy building websites 👨🏻‍💻 and learning about new web technologies. Do checkout some cool projects that I have created. I believe smart work beats hard work. I enjoy reading books 📚, gardening🌱🪴, watching night sky 🌠 and digital sketching 🎨.</h2>
+<a href="https://github.com/Rahul-Rajeevan/Rahul-Rajeevan/files/9694874/Rahul_Rajeevan_Resume.6.pdf" download="Rahul_Rajeevan_Resume">Resume</a>
+<a href="https://rahul-rajeevan-portfolio.netlify.app/">Portfolio</a>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalpratapsinghh&label=Profile%20views&color=0e75b6&style=flat" alt="kunalpratapsinghh" /> </p>
@@ -17,7 +20,7 @@
 
 - 📫 How to reach me **1.3kunal.tt@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ROVQM5qZ0hamRA0gHBlSMvsFi-KijhPq/view?usp=sharing](https://drive.google.com/file/d/1ROVQM5qZ0hamRA0gHBlSMvsFi-KijhPq/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1tmMFRnqqqdGCPH_cKNiim2iJKF_gAsKU/view?usp=sharing)
 
 - ⚡ Fun fact **I am not Funny**
 
