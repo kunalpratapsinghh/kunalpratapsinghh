@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Kunal Pratap Singh</h1>
 <h3 align="center">A passionate MERN developer from India</h3>
 <h2 align="center">I enjoy building websites 👨🏻‍💻 and learning about new web technologies. Do checkout some cool projects that I have created. I believe smart work beats hard work. I enjoy reading books 📚, gardening🌱🪴, watching night sky 🌠 and digital sketching 🎨.</h2>
-<a href="https://github.com/Rahul-Rajeevan/Rahul-Rajeevan/files/9694874/Rahul_Rajeevan_Resume.6.pdf" download="Rahul_Rajeevan_Resume">Resume</a>
+<a href="https://github.com/kunalpratapsinghh/kunalpratapsinghh/files/9694923/Kunal_Singh_Resume.pdf" download="Kunal_Singh_Resume">Resume</a>
 <a href="https://rahul-rajeevan-portfolio.netlify.app/">Portfolio</a>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
