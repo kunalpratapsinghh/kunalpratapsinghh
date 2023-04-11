@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/orthodoxrajput" target="blank"><img src="https://img.shields.io/twitter/follow/orthodoxrajput?logo=twitter&style=for-the-badge" alt="orthodoxrajput" /></a> </p>
 
-- 🌱 I’m currently learning **TypeScript** 
+- 🌱 I’m currently learning **Nest.js** 
 
 - 🌐 You can vist my portfolio on [Portfolio](https://kunalsinghportfolio.netlify.app/#/)
 
