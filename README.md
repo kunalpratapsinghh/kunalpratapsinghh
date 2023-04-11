@@ -1,6 +1,6 @@
 [![MasterHead](https://blog.hubspot.com/hs-fs/hubfs/7a8f8d634013568124e130728834d47a.gif?width=1500&name=7a8f8d634013568124e130728834d47a.gif)](https://kunalpratapsinghh.io)
 <h1 align="center">Hi 👋, I'm Kunal Pratap Singh</h1>
-<h3 align="center">A passionate MERN developer from India</h3>
+<h3 align="center">A passionate MERN developer</h3>
 <h3 align="center">I enjoy building websites 👨🏻‍💻 and learning about new web technologies. Do checkout some cool projects that I have created. I believe smart work beats hard work. I enjoy reading books 📚, gardening🌱🪴, watching night sky 🌠 and digital sketching 🎨.</h3>
 <a href="https://github.com/kunalpratapsinghh/kunalpratapsinghh/files/9694923/Kunal_Singh_Resume.pdf" download="Kunal_Singh_Resume">Resume</a>
 <a href="https://kunalpratapportfolio.netlify.app/">Portfolio</a>
@@ -16,7 +16,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@1.3kunal.tt](https://medium.com/@1.3kunal.tt)
 
-- 💬 Ask me about **ReactJs , Html, CSS , JavaScript**
+- 💬 Ask me about **ReactJs, Html, CSS, JavaScript, Node.js, Vite.js, Microservices**
 
 - 📫 How to reach me **1.3kunal.tt@gmail.com**
 
