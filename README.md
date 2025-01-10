@@ -1,6 +1,6 @@
 [![MasterHead](https://blog.hubspot.com/hs-fs/hubfs/7a8f8d634013568124e130728834d47a.gif?width=1500&name=7a8f8d634013568124e130728834d47a.gif)](https://kunalpratapsinghh.io)
 <h1 align="center">Hi 👋, I'm Kunal Pratap Singh</h1>
-<h3 align="center">A passionate MERN developer</h3>
+<h3 align="center">A passionate Web developer</h3>
 <h3 align="center">I enjoy building websites 👨🏻‍💻 and learning about new web technologies. Do checkout some cool projects that I have created. I believe smart work beats hard work. I enjoy reading books 📚, gardening🌱🪴, watching night sky 🌠 and digital sketching 🎨.</h3>
 <a href="https://github.com/kunalpratapsinghh/kunalpratapsinghh/files/9694923/Kunal_Singh_Resume.pdf" download="Kunal_Singh_Resume">Resume</a>
 <a href="https://kunalpratapportfolio.netlify.app/">Portfolio</a>
@@ -28,7 +28,7 @@
 <p align="left">
 <a href="https://codepen.io/kunalpratapsinghh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="kunalpratapsinghh" height="30" width="40" /></a>
 <a href="https://twitter.com/orthodoxrajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="orthodoxrajput" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kunal-singh-601342230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kunal-singh-601342230" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kunalabcd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kunal-singh-601342230" height="30" width="40" /></a>
 <a href="https://codesandbox.com/kunalgaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="kunalgaya" height="30" width="40" /></a>
 <a href="https://fb.com/kunal-singh/100009523597981" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kunal-singh/100009523597981" height="30" width="40" /></a>
 <a href="https://instagram.com/kunalabcd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kunalabcd" height="30" width="40" /></a>
