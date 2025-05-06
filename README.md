@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Nest.js** 
 
-- 🌐 You can vist my portfolio on [Portfolio](https://kunalsinghportfolio.netlify.app/#/)
+- 🌐 You can vist my portfolio on [Portfolio](https://kunalpratapportfolio.netlify.app/#/)
 
 - 📝 I regularly write articles on [https://medium.com/@1.3kunal.tt](https://medium.com/@1.3kunal.tt)
 
