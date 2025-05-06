@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Web developer</h3>
 <h3 align="center">I enjoy building websites 👨🏻‍💻 and learning about new web technologies. Do checkout some cool projects that I have created. I believe smart work beats hard work. I enjoy reading books 📚, gardening🌱🪴, watching night sky 🌠 and digital sketching 🎨.</h3>
 <a href="https://github.com/kunalpratapsinghh/kunalpratapsinghh/files/9694923/Kunal_Singh_Resume.pdf" download="Kunal_Singh_Resume">Resume</a>
-<a href="https://kunalpratapportfolio.netlify.app/">Portfolio</a>
+<a href="https://kunalpratapportfolio.netlify.app/">Portfolio</a> 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalpratapsinghh&label=Profile%20views&color=0e75b6&style=flat" alt="kunalpratapsinghh" /> </p>
